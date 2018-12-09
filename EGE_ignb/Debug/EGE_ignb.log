@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\visual2017\ignb\ege_ignb\main.cpp(69): warning C4715: “menu11”: 不是所有的控件路径都返回值
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  EGE_ignb.vcxproj -> E:\visual2017\ignb\Debug\EGE_ignb.exe

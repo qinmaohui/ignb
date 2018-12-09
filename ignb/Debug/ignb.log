@@ -1,0 +1,32 @@
+﻿  main.c
+e:\visual2017\ignb\ignb\main.c(62): warning C4013: “getch”未定义；假设外部返回 int
+e:\visual2017\ignb\ignb\main.c(140): warning C4013: “gets”未定义；假设外部返回 int
+e:\visual2017\ignb\ignb\main.c(143): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(145): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(157): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\visual2017\ignb\ignb\main.c(161): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+e:\visual2017\ignb\ignb\main.c(619): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(621): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(679): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(681): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(713): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(714): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\visual2017\ignb\ignb\main.c(719): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\visual2017\ignb\ignb\main.c(724): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+e:\visual2017\ignb\ignb\main.c(842): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\visual2017\ignb\ignb\main.c(83): warning C4715: “menu11”: 不是所有的控件路径都返回值
+e:\visual2017\ignb\ignb\main.c(633): warning C4716: “menu33”: 必须返回一个值
+  ignb.vcxproj -> E:\visual2017\ignb\Debug\ignb.exe

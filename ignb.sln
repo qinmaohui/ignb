@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ignb", "ignb\ignb.vcxproj", "{741F7A09-C47E-4D9D-9269-1203FF4F4A05}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EGE_ignb", "EGE_ignb\EGE_ignb.vcxproj", "{211246E2-A08F-49DA-9174-979314E92937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{741F7A09-C47E-4D9D-9269-1203FF4F4A05}.Release|x64.Build.0 = Release|x64
 		{741F7A09-C47E-4D9D-9269-1203FF4F4A05}.Release|x86.ActiveCfg = Release|Win32
 		{741F7A09-C47E-4D9D-9269-1203FF4F4A05}.Release|x86.Build.0 = Release|Win32
+		{211246E2-A08F-49DA-9174-979314E92937}.Debug|x64.ActiveCfg = Debug|x64
+		{211246E2-A08F-49DA-9174-979314E92937}.Debug|x64.Build.0 = Debug|x64
+		{211246E2-A08F-49DA-9174-979314E92937}.Debug|x86.ActiveCfg = Debug|Win32
+		{211246E2-A08F-49DA-9174-979314E92937}.Debug|x86.Build.0 = Debug|Win32
+		{211246E2-A08F-49DA-9174-979314E92937}.Release|x64.ActiveCfg = Release|x64
+		{211246E2-A08F-49DA-9174-979314E92937}.Release|x64.Build.0 = Release|x64
+		{211246E2-A08F-49DA-9174-979314E92937}.Release|x86.ActiveCfg = Release|Win32
+		{211246E2-A08F-49DA-9174-979314E92937}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
